@@ -1,7 +1,8 @@
 # AppMaps Project
 
 This is a full-stack application with a Spring Boot backend and a React frontend.
-The application allows visualization and management of markers on a map connected to a MySQL database.
+The application allows visualization and management of markers on a map connected to a MySQL database. 
+To display Google Maps correctly, a valid API key must be provided in the .env file.
 
 ## Backend
 - **Directory:** `/maps`
